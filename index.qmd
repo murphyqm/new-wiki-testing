@@ -1,9 +1,0 @@
-# Wiki
-
-The aim of this is to:
-
-Be very easy to use from an organisation/logistics point of view: no need to build anything or run anything
-To be totally doable and quick through the browser
-To encourage inclusion of useful team-relevant information (requiring a pull request)
-To be regularly pruned etc., but also to have a secure version control history so previous versions can be found if needed
-To work identically to just a plain git repo but with better in-file searching.
