@@ -4,8 +4,12 @@ Testing out various options for an easy-to-use wiki.
 
 If required, the index of the wiki can just copy the content from this readme.
 
-The aim of this is to:
+>[!IMPORTANT]
+> **Can't find what you're looking for?**
+> It might be somewhere else.
 
+
+The aim of this is to:
 - Be very easy to use from an organisation/logistics point of view: no need to build anything or run anything
 - To be totally doable and quick through the browser
 - To encourage inclusion of useful team-relevant information (requiring a pull request)
